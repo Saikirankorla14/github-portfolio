@@ -1,20 +1,20 @@
-# arasgungore.github.io
+# saikirankorla14.github.io
 
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://arasgungore.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://saikirankorla14.github.io).
 
 
 
 ## Screenshots
 
 <p float="center">
-    <img src="https://github.com/arasgungore/arasgungore.github.io/blob/main/Screenshots/1.png" width="800">
+    <img src="https://github.com/e/saikirankorla14.github.io/blob/main/Screenshots/1.png" width="800">
 </p>
 
 
 
 ## Author
 
-👤 **Aras Güngöre**
+👤 **Saikiran Korla**
 
-* LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
-* GitHub: [@arasgungore](https://github.com/arasgungore)
+* LinkedIn: [@saikirankorla](https://www.linkedin.com/in/saikirankorla/)
+* GitHub: [@saikirankorla](https://github.com/Saikirankorla14)
